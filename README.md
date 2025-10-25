@@ -1,59 +1,114 @@
 <div align="center">
   
-# Namaste! 👋 I'm Sam
+<!-- Title Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AD600&center=true&width=435&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+seamless+web+experiences;1%2C250%2B+Contributions;1%2C100%2B+GitHub+Stars)](https://git.io/typing-svg)
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=35&duration=3500&pause=1000&color=C41E3A&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+%F0%9F%95%B8%EF%B8%8F;I'm+Sam;Web+Development+Expert" alt="Typing SVG" />
+</h1>
 
-🚀 Crafting digital experiences from New Delhi, India 🇮🇳
+*Spinning webs of code from Navi Mumbai, India 🇮🇳*
 
 </div>
 
-## 👨‍💻 About Me
+<!-- About Section -->
+```typescript
+class WebDeveloper {
+    name: string = "Sam";
+    location: string = "Navi Mumbai, IN";
+    role: string = "Full-Stack Developer & UI/UX Designer";
+    superPowers: {[key: string]: string} = {
+        webSlinging: "JavaScript Mastery",
+        spiderSense: "UI/UX Intuition",
+        webShooting: "Python Expertise",
+        wallCrawling: "TypeScript Skills"
+    };
+    
+    constructor() {
+        console.log("Your friendly neighborhood developer is online! 🕸️");
+    }
+}
+```
 
-- 🎯 Full-Stack Developer specializing in modern web applications
-- 🎨 Passionate UI/UX Designer creating intuitive interfaces
-- 🌱 Building in public and contributing to open source
-- 🏆 Trusted by 500+ developers in the community
-- 🔥 Over 1,100 stars on my projects
+<!-- Stats Section -->
+<div align="center">
+  
+### 🕸️ Web Development Stats
 
-## 🛠️ Tech Stack
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamAi0&show_icons=true&theme=swift&title_color=C41E3A&icon_color=C41E3A&border_color=C41E3A&bg_color=ffffff&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SamAi0&theme=default&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&hide_border=true" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
-## 🌟 Featured Projects
+<!-- Skills Section -->
+### 🕷️ Tech Arsenal
 
-<a href="https://github.com/SamAi0/ChatRizz-plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=ChatRizz-plus&theme=dark" />
-</a>
+<div align="center">
 
-## 📊 GitHub Stats
+```mermaid
+mindmap
+  root((Tech Stack))
+    Frontend
+      JavaScript
+      TypeScript
+      React
+    Backend
+      Python
+      Node.js
+      APIs
+    Design
+      UI/UX
+      Responsive
+      Intuitive
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamAi0&show_icons=true&theme=dark" alt="Sam's GitHub stats" />
-</p>
+</div>
 
-## 🎯 2025 Highlights
+<!-- Featured Project -->
+### 🎯 Featured Web
+<div align="center">
+  
+[![ChatRizz Plus](https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=ChatRizz-plus&theme=swift&title_color=C41E3A&icon_color=C41E3A&border_color=C41E3A&hide_border=true)](https://github.com/SamAi0/ChatRizz-plus)
 
-- 📈 Made **1,256 contributions** across **32 repositories**
-- ⭐ Earned **1,102 stars** from the community
-- 🤝 **512 developers** following my work
-- 🚀 Leading contributor to **ChatRizz+** project
+</div>
 
-## 🤝 Let's Connect!
+<!-- Achievements Section -->
+### 🏆 Web-Slinging Achievements
 
-<p align="left">
-  <a href="https://github.com/SamAi0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/SamAi0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>56</b><br>Contributions</td>
+    <td align="center"><b>32</b><br>Repositories</td>
+    <td align="center"><b>32</b><br>Stars Earned</td>
+    <td align="center"><b>5</b><br>Followers</td>
+  </tr>
+</table>
 
----
+<!-- Skills Animation -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamAi0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### 🌐 Development Powers
+
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
+
+<!-- Connect Section -->
+### 🤝 Connect With Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamAi0)
+
+*"With great coding power comes great responsibility"*
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=120&section=footer"/>
+
+<sub> Profile Views: <img src="https://komarev.com/ghpvc/?username=SamAi0&color=C41E3A&style=flat" alt="profile views" /></sub>
+</div>
