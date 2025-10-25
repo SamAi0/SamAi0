@@ -16,4 +16,4 @@ Top Repos:
  • ChatRizz+ — ★123 — ✨ Full-Stack Chat App with Auth & Emails ✨
 Contributions (last year): 1,256 commits • 32 repos contributed
 Followers: 512  • Stars: 1,102
-Links: [GitHub](https://github.com/SamAi0) • [Twitter](https://twitter.com/SamAi0)
+Links: [GitHub](https://github.com/SamAi0)
