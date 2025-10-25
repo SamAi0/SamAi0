@@ -4,7 +4,10 @@
 
 ---
 
-## 🖥️ Profile View (Terminal)
+## 🖥️ Animated Profile View
+
+![Terminal Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+*This GIF simulates a terminal typing out my profile details.*
 
 ```bash
 $ profile view @SamAi0 --detail
@@ -16,4 +19,4 @@ Top Repos:
  • ChatRizz+ — ★123 — ✨ Full-Stack Chat App with Auth & Emails ✨
 Contributions (last year): 1,256 commits • 32 repos contributed
 Followers: 512  • Stars: 1,102
-Links: [GitHub](https://github.com/SamAi0)
+Links: [GitHub](https://github.com/SamAi0) • [Twitter](https://twitter.com/SamAi0)
