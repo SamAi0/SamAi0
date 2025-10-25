@@ -4,7 +4,7 @@
 
 ---
 
-## 🖥️ Profile View (Fake Terminal)
+## 🖥️ Profile View (Terminal)
 
 ```bash
 $ profile view @SamAi0 --detail
