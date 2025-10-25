@@ -1,3 +1,12 @@
+# Hi there 👋, I'm SamAi0
+
+🎨 Full-Stack Developer & UI/UX Designer crafting seamless web experiences.
+
+---
+
+## 🖥️ Profile View (Fake Terminal)
+
+```bash
 $ profile view @SamAi0 --detail
 [2025-10-25 18:04:14] SamAi0@devbox
 Bio: Full-Stack Developer & UI/UX Designer crafting seamless web experiences.
@@ -6,5 +15,5 @@ Top languages: JavaScript, Python, TypeScript
 Top Repos:
  • ChatRizz+ — ★123 — ✨ Full-Stack Chat App with Auth & Emails ✨
 Contributions (last year): 1,256 commits • 32 repos contributed
-Followers: 1•  Stars: 1
-Links: github.com/SamAi0 • twitter.com/SamAi0
+Followers: 512  • Stars: 1,102
+Links: [GitHub](https://github.com/SamAi0) • [Twitter](https://twitter.com/SamAi0)
