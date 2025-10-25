@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**SamAi0/SamAi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ profile view @SamAi0 --detail
+[2025-10-25 18:04:14] SamAi0@devbox
+Bio: Full-Stack Developer & UI/UX Designer crafting seamless web experiences.
+Role: Full-Stack Developer, UI/UX Designer  •  Location: New Delhi, IN
+Top languages: JavaScript, Python, TypeScript
+Top Repos:
+ • ChatRizz+ — ★123 — ✨ Full-Stack Chat App with Auth & Emails ✨
+Contributions (last year): 1,256 commits • 32 repos contributed
+Followers: 1•  Stars: 1
+Links: github.com/SamAi0 • twitter.com/SamAi0
