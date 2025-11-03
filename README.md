@@ -1,114 +1,123 @@
-<div align="center">
-  
-<!-- Title Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=120&section=header"/>
+<p align="center">
+  <img src="https://i.ibb.co/8NdqW7H/spiderman-banner.jpg" alt="Spider-Man Banner" width="100%"/>
+</p>
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=35&duration=3500&pause=1000&color=C41E3A&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+%F0%9F%95%B8%EF%B8%8F;I'm+Sam;Web+Development+Expert" alt="Typing SVG" />
+<h1 align="center">
+  <span style="color:#E60023; text-shadow: 0 0 8px #E60023, 0 0 16px #111, 0 0 4px #00AEEF;">
+    SamAi0
+  </span>
 </h1>
+<p align="center"><em>With great power comes great code.</em></p>
 
-*Spinning webs of code from Navi Mumbai, India 🇮🇳*
+<p align="center"><img src="https://images.unsplash.com/photo-1" alt="Neon Spider-Man Avatar" width="120"/></p>
+<p align="center">🕸️🕸️🕸️</p>
 
-</div>
+## 🧑‍💻 About Me
+Hi, I’m **Sam**, a web developer crafting digital webs with precision and creativity.
 
-<!-- About Section -->
-```typescript
-class WebDeveloper {
-    name: string = "Sam";
-    location: string = "Navi Mumbai, IN";
-    role: string = "Full-Stack Developer & UI/UX Designer";
-    superPowers: {[key: string]: string} = {
-        webSlinging: "JavaScript Mastery",
-        spiderSense: "UI/UX Intuition",
-        webShooting: "Python Expertise",
-        wallCrawling: "TypeScript Skills"
-    };
-    
-    constructor() {
-        console.log("Your friendly neighborhood developer is online! 🕸️");
-    }
-}
-```
+- 🕸️ Frontend: React, Next.js, Tailwind CSS  
+- 🧠 Backend: Node.js, Express, MongoDB  
+- ⚡ Passionate about UI/UX, animations, and storytelling in design  
 
-<!-- Stats Section -->
-<div align="center">
-  
-### 🕸️ Web Development Stats
+<p align="center">
+  <img src="https://images.unsplash.com/photo-2" alt="Minimal Spider Logo" width="100"/>
+</p>
+<p align="center">🕸️🕸️🕸️</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamAi0&show_icons=true&theme=swift&title_color=C41E3A&icon_color=C41E3A&border_color=C41E3A&bg_color=ffffff&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SamAi0&theme=default&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&hide_border=true" />
+## ⚙️ Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-<!-- Skills Section -->
-### 🕷️ Tech Arsenal
+<p align="center"><img src="https://images.unsplash.com/photo-3" alt="Spider-Man 2099 style" width="240"/></p>
+<p align="center">🕸️🕸️🕸️</p>
 
-<div align="center">
+## 🕹️ Featured Projects
 
-```mermaid
-mindmap
-  root((Tech Stack))
-    Frontend
-      JavaScript
-      TypeScript
-      React
-    Backend
-      Python
-      Node.js
-      APIs
-    Design
-      UI/UX
-      Responsive
-      Intuitive
-```
-
-</div>
-
-<!-- Featured Project -->
-### 🎯 Featured Web
-<div align="center">
-  
-[![ChatRizz Plus](https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=ChatRizz-plus&theme=swift&title_color=C41E3A&icon_color=C41E3A&border_color=C41E3A&hide_border=true)](https://github.com/SamAi0/ChatRizz-plus)
-
-</div>
-
-<!-- Achievements Section -->
-### 🏆 Web-Slinging Achievements
-
-<table align="center">
+<table>
   <tr>
-    <td align="center"><b>56</b><br>Contributions</td>
-    <td align="center"><b>32</b><br>Repositories</td>
-    <td align="center"><b>32</b><br>Stars Earned</td>
-    <td align="center"><b>5</b><br>Followers</td>
+    <td>
+      <h3>🕸️ Project Venom</h3>
+      <p>AI-driven dark theme generator</p>
+    </td>
+    <td>
+      <h3>🧠 SpiderSense</h3>
+      <p>Real-time error detection tool</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SamAi0/ProjectVenom">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=ProjectVenom&theme=tokyonight"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SamAi0/SpiderSense">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=SpiderSense&theme=tokyonight"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🗞️ Daily Bugle Dashboard</h3>
+      <p>Interactive dashboard built with Next.js</p>
+    </td>
+    <td>
+      <h3>🕸️ Web-Slinger</h3>
+      <p>Fast API gateway for serverless functions</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SamAi0/DailyBugleDashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=DailyBugleDashboard&theme=tokyonight"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SamAi0/WebSlinger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamAi0&repo=WebSlinger&theme=tokyonight"/>
+      </a>
+    </td>
   </tr>
 </table>
 
-<!-- Skills Animation -->
-<div align="center">
+<p align="center"><img src="https://images.unsplash.com/photo-4" alt="Electric Spider Logo" width="120"/></p>
+<p align="center">🕸️🕸️🕸️</p>
 
-### 🌐 Development Powers
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamAi0&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamAi0&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAi0&layout=compact&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">🕸️🕸️🕸️</p>
 
-<!-- Connect Section -->
-### 🤝 Connect With Me
+## 🧠 Fun Extras
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamAi0)
+<details>
+  <summary>🕵️ Reveal Secret Identity</summary>
+  <p>Peter Parker? Nah, just a dev spinning webs of code.</p>
+</details>
 
-*"With great coding power comes great responsibility"*
+<p align="center">🕸️🕸️🕸️</p>
 
-</div>
+## 💬 Quote & Connect
 
-<!-- Footer -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C41E3A&height=120&section=footer"/>
+<p align="center"><em>“The web is my playground — code is my superpower.”</em></p>
 
-<sub> Profile Views: <img src="https://komarev.com/ghpvc/?username=SamAi0&color=C41E3A&style=flat" alt="profile views" /></sub>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samai0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/SamAi0"><img src="https://img.shields.io/badge/Twitter-00AEEF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://samai0.dev"><img src="https://img.shields.io/badge/Portfolio-E60023?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center" style="color:#222; font-size:0.9em;">Designed for dark mode · #E60023 & #00AEEF aesthetic</p>
