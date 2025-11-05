@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Hero Banner Section -->
-<img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px; margin-bottom: 20px;"/>
+<img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46-Photoroom.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px; margin-bottom: 20px;"/>
 
 <!-- Identity Section -->
 <h1 align="center" style="margin: 10px 0;">
@@ -20,6 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=SamAi0&style=for-the-badge&color=E60023&labelColor=0d1117" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/SamAi0?label=Follow&style=for-the-badge&color=00AEEF&labelColor=0d1117" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/SamAi0?label=Stars&style=for-the-badge&color=E60023&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/github/contributions/SamAi0?label=Contributions&style=for-the-badge&color=00AEEF&labelColor=0d1117" alt="Contributions"/>
 </p>
 
 <!-- Quick Links -->
@@ -36,7 +37,7 @@
 </p>
 
 <!-- Visual Divider -->
-<img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="Divider" width="300" style="margin: 30px 0; opacity: 0.8;"/>
+<img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="300" style="margin: 30px 0; opacity: 0.8;"/>
 
 </div>
 
@@ -93,6 +94,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
 </div>
@@ -100,7 +103,7 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Electric Spider Web Burst" width="250" style="border-radius: 8px; opacity: 0.9;"/>
+  <img src="images-removebg-preview (1).png" alt="Electric Spider Web Burst" width="250" style="border-radius: 8px; opacity: 0.9;"/>
 </div>
 
 </div>
@@ -224,7 +227,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Mask Grid" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
   <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Tech Burst" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
-  <img src="Gemini_Generated_Image_t6orgwt6orgwt6or.png" alt="Neon Web" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
+  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Neon Web" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
   <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Hand Painted Web" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
   <img src="images-removebg-preview.png" alt="Spider Web Art" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
   <img src="download-removebg-preview.png" alt="Spider Design" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
@@ -235,9 +238,8 @@
 ---
 
 <!-- Visual Divider -->
-<div align="center" style="margin: 40px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="250" style="opacity: 0.7;"/>
-  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="200" style="opacity: 0.7; border-radius: 12px;"/>
+<div align="center" style="margin: 40px 0;">
+  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="250" style="opacity: 0.7; border-radius: 12px;"/>
 </div>
 
 ---
@@ -321,6 +323,64 @@
 
 ---
 
+<!-- 🎓 LEARNING SECTION -->
+<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.05), rgba(230, 0, 35, 0.05)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+
+<h2 align="center" style="margin: 0 0 20px 0; color: #E60023;">
+  🎓 Currently Learning
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M12 3v18M3 12h18" stroke="#E60023" stroke-width="1.1" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</div>
+
+<p align="center" style="font-size: 1em; color: #b0b0b0; margin: 20px 0; font-style: italic;">
+  Always expanding my web of knowledge! 🕸️
+</p>
+
+</div>
+
+---
+
+<!-- 💡 FUN FACTS SECTION -->
+<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+
+<h2 align="center" style="margin: 0 0 20px 0; color: #00AEEF;">
+  💡 Fun Facts
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M12 3v18M3 12h18" stroke="#E60023" stroke-width="1.1" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<div style="text-align: left; max-width: 700px; margin: 0 auto; padding: 20px; background: rgba(13, 17, 23, 0.6); border-radius: 12px;">
+
+<ul style="color: #e0e0e0; line-height: 2; font-size: 1.05em;">
+  <li style="margin: 10px 0;">🕷️ I code like Spider-Man swings—with precision and style!</li>
+  <li style="margin: 10px 0;">☕ Coffee is my web-fluid (fuel for coding sessions)</li>
+  <li style="margin: 10px 0;">🎮 Love building games and interactive experiences in my spare time</li>
+  <li style="margin: 10px 0;">🌐 Passionate about creating accessible and performant web experiences</li>
+</ul>
+
+</div>
+
+</div>
+
+---
+
 <!-- 💬 CONNECT SECTION -->
 <div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
 
@@ -340,16 +400,23 @@
 </p>
 
 <div align="center" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/samai0" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/samai0" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SamAi0" style="margin: 0 15px;">
+  <a href="https://twitter.com/SamAi0" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Twitter-00AEEF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/SamAi0/SamAi0" style="margin: 0 15px;">
+  <a href="https://github.com/SamAi0/SamAi0" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-E60023?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:sam@example.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
+
+<p align="center" style="margin: 20px 0; font-size: 0.95em; color: #888;">
+  💬 <strong>Let's collaborate!</strong> Open to discussing projects, ideas, or just having a chat about web development.
+</p>
 
 </div>
 
@@ -367,6 +434,11 @@
 <p style="color: #666; font-size: 0.85em; margin: 5px 0;">
   <em>With great power comes great code.</em>
 </p>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/github/last-commit/SamAi0/SamAi0?style=flat-square&color=00AEEF&labelColor=0d1117" alt="Last commit"/>
+  <img src="https://img.shields.io/github/license/SamAi0/SamAi0?style=flat-square&color=E60023&labelColor=0d1117" alt="License"/>
+</div>
 
 <!-- Animated Web SVG Footer -->
 <div align="center" style="margin: 20px 0;">
