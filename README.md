@@ -130,8 +130,10 @@
   </a>
 </p>
 
-<!-- Visual Divider -->
-<img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="300" style="margin: 30px 0; opacity: 0.8;"/>
+<!-- Visual Divider - Top Right -->
+<div style="position: relative; width: 100%; margin: 30px 0;">
+  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="200" style="position: absolute; top: 0; right: 0; opacity: 0.8; z-index: 1;"/>
+</div>
 
 </div>
 
@@ -141,7 +143,9 @@
 <div align="center">
 
 <!-- 🧑‍💻 ABOUT ME SECTION -->
-<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+<div style="position: relative; max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+  <!-- Top Left Corner Image -->
+  <img src="images-removebg-preview (1).png" alt="Electric Spider Web Burst" width="150" style="position: absolute; top: -20px; left: -20px; opacity: 0.9; z-index: 2; border-radius: 8px; border: 2px solid rgba(230, 0, 35, 0.3);"/>
 
 <h2 align="center" style="margin: 0 0 20px 0; color: #00AEEF;">
   🧑‍💻 About Me
@@ -196,16 +200,19 @@
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="images-removebg-preview (1).png" alt="Electric Spider Web Burst" width="250" style="border-radius: 8px; opacity: 0.9;"/>
-</div>
+  <!-- Bottom Right Corner Image -->
+  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Spider Web" width="120" style="position: absolute; bottom: -15px; right: -15px; opacity: 0.7; z-index: 2; border-radius: 8px; border: 2px solid rgba(0, 174, 239, 0.3);"/>
 
 </div>
 
 ---
 
 <!-- 🚀 CURRENT FOCUS SECTION -->
-<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.05), rgba(230, 0, 35, 0.05)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+<div style="position: relative; max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.05), rgba(230, 0, 35, 0.05)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+  <!-- Top Right Corner Image -->
+  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Spider Web Burst" width="140" style="position: absolute; top: -25px; right: -25px; opacity: 0.85; z-index: 2; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3);"/>
+  <!-- Bottom Left Corner Image -->
+  <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Spider Mask" width="140" style="position: absolute; bottom: -25px; left: -25px; opacity: 0.85; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3);"/>
 
 <h2 align="center" style="margin: 0 0 20px 0; color: #E60023;">
   🚀 Currently
@@ -227,11 +234,6 @@
   <li style="margin: 10px 0;">🤝 Open to collaboration on innovative web experiences</li>
 </ul>
 
-</div>
-
-<div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Spider Web Burst" width="200" style="border-radius: 12px; opacity: 0.85; border: 2px solid rgba(230, 0, 35, 0.3);"/>
-  <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Spider Mask" width="200" style="border-radius: 12px; opacity: 0.85; border: 2px solid rgba(0, 174, 239, 0.3);"/>
 </div>
 
 </div>
@@ -309,9 +311,9 @@
 
 ---
 
-<!-- Visual Divider -->
-<div align="center" style="margin: 40px 0;">
-  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="250" style="opacity: 0.7; border-radius: 12px;"/>
+<!-- Visual Divider - Bottom Left -->
+<div style="position: relative; width: 100%; margin: 40px 0; min-height: 200px;">
+  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="200" style="position: absolute; bottom: 0; left: 0; opacity: 0.7; border-radius: 12px; z-index: 1;"/>
 </div>
 
 ---
@@ -396,7 +398,9 @@
 ---
 
 <!-- 🎓 LEARNING SECTION -->
-<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.05), rgba(230, 0, 35, 0.05)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+<div style="position: relative; max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.05), rgba(230, 0, 35, 0.05)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+  <!-- Top Left Corner Image -->
+  <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Learning Web" width="140" style="position: absolute; top: -20px; left: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.4);"/>
 
 <h2 align="center" style="margin: 0 0 20px 0; color: #E60023;">
   🎓 Currently Learning
@@ -416,9 +420,8 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
-<div align="center" style="margin: 25px 0;">
-  <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Learning Web" width="180" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(0, 174, 239, 0.4);"/>
-</div>
+  <!-- Bottom Right Corner Image -->
+  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Web Design" width="120" style="position: absolute; bottom: -15px; right: -15px; opacity: 0.8; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.4);"/>
 
 <p align="center" style="font-size: 1em; color: #b0b0b0; margin: 20px 0; font-style: italic;">
   Always expanding my web of knowledge! 🕸️
@@ -429,7 +432,13 @@
 ---
 
 <!-- 💡 FUN FACTS SECTION -->
-<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+<div style="position: relative; max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+  <!-- Top Left Corner -->
+  <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Minimalist Spider" width="130" style="position: absolute; top: -20px; left: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
+  <!-- Top Right Corner -->
+  <img src="download-removebg-preview.png" alt="Spider Design" width="130" style="position: absolute; top: -20px; right: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.4); box-shadow: 0 4px 15px rgba(0, 174, 239, 0.2);"/>
+  <!-- Bottom Right Corner -->
+  <img src="images-removebg-preview.png" alt="Spider Web Art" width="130" style="position: absolute; bottom: -20px; right: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
 
 <h2 align="center" style="margin: 0 0 20px 0; color: #00AEEF;">
   💡 Fun Facts
@@ -451,12 +460,6 @@
   <li style="margin: 10px 0;">🌐 Passionate about creating accessible and performant web experiences</li>
 </ul>
 
-</div>
-
-<div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Minimalist Spider" width="220" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
-  <img src="download-removebg-preview.png" alt="Spider Design" width="220" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(0, 174, 239, 0.4); box-shadow: 0 4px 15px rgba(0, 174, 239, 0.2);"/>
-  <img src="images-removebg-preview.png" alt="Spider Web Art" width="220" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
 </div>
 
 </div>
