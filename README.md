@@ -5,41 +5,71 @@
 <div align="center" style="position: relative; margin-bottom: 20px;">
   <img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46-Photoroom.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px;"/>
   
-  <!-- Animated Greeting in Top-Left Corner -->
-  <div style="position: absolute; top: 20px; left: 20px; z-index: 10; background: rgba(13, 17, 23, 0.85); padding: 15px 25px; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.5); box-shadow: 0 4px 20px rgba(0, 174, 239, 0.3); backdrop-filter: blur(10px);">
-    <svg width="320" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animated Greeting in Top-Left Corner with Right-to-Left Animation -->
+  <div style="position: absolute; top: 20px; left: 20px; z-index: 10; background: rgba(13, 17, 23, 0.9); padding: 20px 30px; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.6); box-shadow: 0 4px 25px rgba(0, 174, 239, 0.4), 0 0 15px rgba(230, 0, 35, 0.3); backdrop-filter: blur(10px); overflow: hidden;">
+    <svg width="380" height="130" xmlns="http://www.w3.org/2000/svg">
       <defs>
-        <linearGradient id="greetingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#00AEEF" stop-opacity="1">
-            <animate attributeName="stop-color" values="#00AEEF;#E60023;#00AEEF" dur="2.5s" repeatCount="indefinite"/>
+        <linearGradient id="colorfulGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#E60023" stop-opacity="1">
+            <animate attributeName="stop-color" values="#E60023;#00AEEF;#FFD700;#E60023" dur="3s" repeatCount="indefinite"/>
           </stop>
-          <stop offset="50%" stop-color="#E60023" stop-opacity="1">
-            <animate attributeName="stop-color" values="#E60023;#00AEEF;#E60023" dur="2.5s" repeatCount="indefinite"/>
+          <stop offset="33%" stop-color="#00AEEF" stop-opacity="1">
+            <animate attributeName="stop-color" values="#00AEEF;#FFD700;#E60023;#00AEEF" dur="3s" repeatCount="indefinite"/>
           </stop>
-          <stop offset="100%" stop-color="#00AEEF" stop-opacity="1">
-            <animate attributeName="stop-color" values="#00AEEF;#E60023;#00AEEF" dur="2.5s" repeatCount="indefinite"/>
+          <stop offset="66%" stop-color="#FFD700" stop-opacity="1">
+            <animate attributeName="stop-color" values="#FFD700;#E60023;#00AEEF;#FFD700" dur="3s" repeatCount="indefinite"/>
           </stop>
-          <animateTransform attributeName="gradientTransform" type="translate" values="0 0;50 0;0 0" dur="2.5s" repeatCount="indefinite"/>
+          <stop offset="100%" stop-color="#E60023" stop-opacity="1">
+            <animate attributeName="stop-color" values="#E60023;#00AEEF;#FFD700;#E60023" dur="3s" repeatCount="indefinite"/>
+          </stop>
+          <animateTransform attributeName="gradientTransform" type="translate" values="0 0;100 0;0 0" dur="3s" repeatCount="indefinite"/>
         </linearGradient>
-        <filter id="textGlow">
-          <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+        <filter id="powerfulGlow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
           <feMerge>
             <feMergeNode in="coloredBlur"/>
             <feMergeNode in="SourceGraphic"/>
           </feMerge>
         </filter>
       </defs>
-      <text x="10" y="35" font-size="28" font-weight="bold" fill="url(#greetingGradient)" filter="url(#textGlow)" font-family="Arial, sans-serif">
-        <tspan fill="#ffffff">Hello I'm </tspan>
-        <tspan fill="url(#greetingGradient)">SamAi0</tspan>
-      </text>
-      <text x="10" y="65" font-size="18" fill="#00AEEF" font-family="Arial, sans-serif" opacity="0.9">
+      <!-- "Hello" - slides from right -->
+      <g>
+        <text x="10" y="35" font-size="26" font-weight="bold" fill="#ffffff" font-family="Arial, sans-serif" opacity="0.9">
+          <animate attributeName="x" from="350" to="10" dur="0.8s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="0.9" dur="0.8s" fill="freeze"/>
+          Hello
+        </text>
+      </g>
+      <!-- "I'm" - slides from right with delay -->
+      <g>
+        <text x="80" y="35" font-size="26" font-weight="bold" fill="#00AEEF" font-family="Arial, sans-serif">
+          <animate attributeName="x" from="350" to="80" dur="0.8s" begin="0.3s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze"/>
+          I'm
+        </text>
+      </g>
+      <!-- "SamAi0" - slides from right with more delay, colorful -->
+      <g>
+        <text x="140" y="35" font-size="32" font-weight="bold" fill="url(#colorfulGradient)" filter="url(#powerfulGlow)" font-family="Arial, sans-serif">
+          <animate attributeName="x" from="350" to="140" dur="0.8s" begin="0.6s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.6s" fill="freeze"/>
+          SamAi0
+        </text>
+      </g>
+      <!-- Subtitle with fade-in -->
+      <text x="10" y="65" font-size="18" fill="#00AEEF" font-family="Arial, sans-serif" opacity="0">
+        <animate attributeName="opacity" from="0" to="0.9" dur="1s" begin="1.2s" fill="freeze"/>
         <tspan>🕷️ Web Developer</tspan>
       </text>
-      <circle cx="15" cy="85" r="4" fill="#E60023" opacity="0.8">
-        <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
+      <!-- Status indicator -->
+      <circle cx="15" cy="85" r="4" fill="#E60023" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+        <animate attributeName="opacity" values="1;0.6;1" dur="1.5s" begin="2s" repeatCount="indefinite"/>
       </circle>
-      <text x="25" y="90" font-size="14" fill="#aaa" font-family="Arial, sans-serif">Available for collaboration</text>
+      <text x="25" y="90" font-size="14" fill="#aaa" font-family="Arial, sans-serif" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+        Available for collaboration
+      </text>
     </svg>
   </div>
 </div>
@@ -209,7 +239,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/SamAi0/SamAi0">
-    <img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="SpiderSense Neon Logo" width="60%" style="max-width: 300px; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); transition: opacity 0.3s ease;"/>
+    <img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="SpiderSense Neon Logo" width="40%" style="max-width: 200px; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); transition: opacity 0.3s ease;"/>
   </a>
 </div>
 
