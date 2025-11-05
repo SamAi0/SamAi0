@@ -286,12 +286,6 @@
   </svg>
 </div>
 
-<div align="center" style="margin: 30px 0; padding: 20px; background: rgba(13, 17, 23, 0.6); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
-  <img src="https://raw.githubusercontent.com/SamAi0/SamAi0/output/snake.svg" alt="Contribution Snake animation" style="max-width: 100%;"/>
-</div>
-
-</div>
-
 ---
 
 <!-- 📊 GITHUB STATS SECTION -->
