@@ -11,49 +11,89 @@
       <defs>
         <linearGradient id="yellowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
           <stop offset="0%" stop-color="#FFD700" stop-opacity="1">
-            <animate attributeName="stop-color" values="#FFD700;#FFFF00;#FFD700" dur="2s" repeatCount="indefinite"/>
+            <animate attributeName="stop-color" values="#FFD700;#FFFF00;#FFA500;#FFD700" dur="3s" repeatCount="indefinite"/>
           </stop>
-          <stop offset="100%" stop-color="#FFFF00" stop-opacity="1">
-            <animate attributeName="stop-color" values="#FFFF00;#FFD700;#FFFF00" dur="2s" repeatCount="indefinite"/>
+          <stop offset="50%" stop-color="#FFFF00" stop-opacity="1">
+            <animate attributeName="stop-color" values="#FFFF00;#FFD700;#FFFF00;#FFA500" dur="3s" repeatCount="indefinite"/>
           </stop>
+          <stop offset="100%" stop-color="#FFD700" stop-opacity="1">
+            <animate attributeName="stop-color" values="#FFD700;#FFFF00;#FFD700;#FFA500" dur="3s" repeatCount="indefinite"/>
+          </stop>
+          <animateTransform attributeName="gradientTransform" type="translate" values="0 0;50 0;0 0" dur="3s" repeatCount="indefinite"/>
         </linearGradient>
-        <filter id="yellowGlow">
-          <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+        <filter id="yellowGlow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
           <feMerge>
             <feMergeNode in="coloredBlur"/>
             <feMergeNode in="SourceGraphic"/>
           </feMerge>
+          <feOffset in="SourceGraphic" dx="0" dy="0" result="offset"/>
+          <feGaussianBlur in="offset" stdDeviation="2"/>
+        </filter>
+        <filter id="textShadow">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#FFD700" flood-opacity="0.6"/>
         </filter>
       </defs>
       
-      <!-- "Hello" - Handwritten style, writes from left to right -->
-      <text x="15" y="48" font-size="32" font-weight="bold" fill="url(#yellowGradient)" filter="url(#yellowGlow)" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
-        <animate attributeName="fill-opacity" values="0;1;1" dur="0.6s" begin="0s" fill="freeze"/>
-        Hello
-      </text>
+      <!-- "Hello" - Enhanced handwritten style with smooth animation -->
+      <g>
+        <text x="15" y="48" font-size="32" font-weight="bold" fill="none" stroke="url(#yellowGradient)" stroke-width="0.5" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
+          <animate attributeName="opacity" from="0" to="0.3" dur="0.4s" begin="0s" fill="freeze"/>
+          Hello
+        </text>
+        <text x="15" y="48" font-size="32" font-weight="bold" fill="url(#yellowGradient)" filter="url(#yellowGlow)" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="0,-5;0,0" dur="0.6s" begin="0s" fill="freeze"/>
+          Hello
+        </text>
+      </g>
       
-      <!-- "I'm SamAi0," - Second line, writes with delay -->
-      <text x="15" y="75" font-size="32" font-weight="bold" fill="url(#yellowGradient)" filter="url(#yellowGlow)" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.8s" fill="freeze"/>
-        <animate attributeName="fill-opacity" values="0;1;1" dur="0.8s" begin="0.8s" fill="freeze"/>
-        I'm SamAi0,
-      </text>
+      <!-- "I'm SamAi0," - Enhanced second line with character reveal effect -->
+      <g>
+        <text x="15" y="75" font-size="32" font-weight="bold" fill="none" stroke="url(#yellowGradient)" stroke-width="0.5" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
+          <animate attributeName="opacity" from="0" to="0.3" dur="0.5s" begin="0.8s" fill="freeze"/>
+          I'm SamAi0,
+        </text>
+        <text x="15" y="75" font-size="32" font-weight="bold" fill="url(#yellowGradient)" filter="url(#yellowGlow)" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.8s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="0,-5;0,0" dur="0.8s" begin="0.8s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" values="0.8,0.8;1,1" dur="0.8s" begin="0.8s" fill="freeze" additive="sum"/>
+          I'm SamAi0,
+        </text>
+      </g>
       
-      <!-- "Shivam" - Third line, writes with more delay -->
-      <text x="15" y="110" font-size="36" font-weight="bold" fill="url(#yellowGradient)" filter="url(#yellowGlow)" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.6s" fill="freeze"/>
-        <animate attributeName="fill-opacity" values="0;1;1" dur="0.8s" begin="1.6s" fill="freeze"/>
-        <animate attributeName="font-size" values="36;38;36" dur="2s" begin="2.4s" repeatCount="indefinite"/>
-        Shivam
-      </text>
+      <!-- "Shivam" - Enhanced third line with pulsing and glow effects -->
+      <g>
+        <text x="15" y="110" font-size="36" font-weight="bold" fill="none" stroke="url(#yellowGradient)" stroke-width="0.5" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
+          <animate attributeName="opacity" from="0" to="0.3" dur="0.5s" begin="1.6s" fill="freeze"/>
+          Shivam
+        </text>
+        <text x="15" y="110" font-size="36" font-weight="bold" fill="url(#yellowGradient)" filter="url(#yellowGlow)" font-family="'Comic Sans MS', 'Brush Script MT', 'Segoe Print', 'Marker Felt', cursive" opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.6s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" values="0,-8;0,0" dur="0.8s" begin="1.6s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="scale" values="0.7,0.7;1,1" dur="0.8s" begin="1.6s" fill="freeze" additive="sum"/>
+          <animate attributeName="font-size" values="36;38;36" dur="2s" begin="2.4s" repeatCount="indefinite"/>
+          <animate attributeName="fill-opacity" values="1;0.9;1" dur="2s" begin="2.4s" repeatCount="indefinite"/>
+          Shivam
+        </text>
+      </g>
       
-      <!-- Animated underline effect -->
-      <line x1="15" y1="115" x2="15" y2="115" stroke="url(#yellowGradient)" stroke-width="3" opacity="0">
-        <animate attributeName="opacity" from="0" to="0.8" dur="0.5s" begin="2.4s" fill="freeze"/>
-        <animate attributeName="x2" from="15" to="180" dur="0.8s" begin="2.4s" fill="freeze"/>
-        <animate attributeName="stroke-width" values="3;2;3" dur="1.5s" begin="3.2s" repeatCount="indefinite"/>
-      </line>
+      <!-- Enhanced animated underline effect with drawing animation -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.4s" fill="freeze"/>
+        <line x1="15" y1="115" x2="15" y2="115" stroke="url(#yellowGradient)" stroke-width="3" stroke-linecap="round">
+          <animate attributeName="x2" from="15" to="180" dur="0.8s" begin="2.4s" fill="freeze"/>
+          <animate attributeName="stroke-width" values="3;2.5;3" dur="1.5s" begin="3.2s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" begin="3.2s" repeatCount="indefinite"/>
+        </line>
+        <!-- Decorative dots -->
+        <circle cx="15" cy="115" r="2" fill="url(#yellowGradient)" opacity="0.8">
+          <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" begin="3.2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="180" cy="115" r="2" fill="url(#yellowGradient)" opacity="0.8">
+          <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" begin="3.2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
     </svg>
   </div>
 </div>
