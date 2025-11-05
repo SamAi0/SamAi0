@@ -93,8 +93,7 @@
 </div>
 
 <p align="center" style="font-size: 1.1em; line-height: 1.8; color: #e0e0e0; margin: 20px 0;">
-  Hi, I'm <strong style="color: #00AEEF;">Sam</strong>, a developer crafting digital webs with precision and creativity. 
-  I blend cutting-edge technology with intuitive design to build immersive experiences.
+  Hi, I'm <strong style="color: #00AEEF;">Sam</strong>, Hi, I'm Sam, a developer focused on building clean, fast, and reliable web applications.
 </p>
 
 <!-- Tech Stack Dashboard -->
@@ -369,7 +368,7 @@
 <ul style="color: #e0e0e0; line-height: 2; font-size: 1.05em;">
   <li style="margin: 10px 0;">🕷️ I code like Spider-Man swings—with precision and style!</li>
   <li style="margin: 10px 0;">☕ Coffee is my web-fluid (fuel for coding sessions)</li>
-  <li style="margin: 10px 0;">🎮 Love building games and interactive experiences in my spare time</li>
+  <li style="margin: 10px 0;">🎮 I love building interactive and creative web experiences in my spare time</li>
   <li style="margin: 10px 0;">🌐 Passionate about creating accessible and performant web experiences</li>
 </ul>
 
@@ -396,25 +395,11 @@
 <p align="center" style="font-size: 1.1em; color: #e0e0e0; margin: 20px 0;">
   Let's build something amazing together! Always open to collaboration and exciting projects.
 </p>
-
-<div align="center" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/samai0" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sam@example.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 <p align="center" style="margin: 20px 0; font-size: 0.95em; color: #888;">
   💬 <strong>Let's collaborate!</strong> Open to discussing projects, ideas, or just having a chat about web development.
 </p>
-
-</div>
-
----
-
-</div>
 
 <!-- Footer -->
 <div align="center" style="margin: 50px 0 20px 0; padding: 20px; border-top: 1px solid rgba(230, 0, 35, 0.2);">
