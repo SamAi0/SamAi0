@@ -1,157 +1,379 @@
-<!--
-══════════════════════════════════════════════════
-      🕸️ DATA SPIDER | SamAi0 / Sam - Web Developer
-══════════════════════════════════════════════════
--->
+<!-- 🕷️ SpiderSense — GitHub Profile README | Dashboard Edition -->
+<div align="center">
 
-<center>
+<!-- Hero Banner Section -->
+<img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px; margin-bottom: 20px;"/>
 
-<!-- Spider Web SVG with Many Spiders Using Unique, Vibrant Colors -->
-<svg width="500" height="260" viewBox="0 0 500 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="Glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <!-- Vibrant color gradient strands -->
-    <linearGradient id="webStrandA" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FF6B6B"/>
-      <stop offset="100%" stop-color="#FFD93D"/>
-    </linearGradient>
-    <linearGradient id="webStrandB" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#6BCB77"/>
-      <stop offset="100%" stop-color="#4D96FF"/>
-    </linearGradient>
-    <radialGradient id="webBg" cx="50%" cy="50%" r="80%">
-      <stop offset="0%" stop-color="#E1E8ED" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+<!-- Identity Section -->
+<h1 align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/🕷️-SamAi0-00AEEF?style=flat-square&logo=github&logoColor=white" alt="Profile"/>
+  <br/>
+  <span style="background: linear-gradient(90deg, #E60023, #00AEEF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em; font-weight: bold;">SpiderSense Web-Slinger</span>
+</h1>
 
-  <!-- Web background -->
-  <ellipse cx="250" cy="130" rx="230" ry="110" stroke="url(#webStrandA)" stroke-width="1.5" fill="url(#webBg)" filter="url(#Glow)" />
-  <ellipse cx="250" cy="130" rx="170" ry="85" stroke="url(#webStrandB)" stroke-width="1.2" fill="none" filter="url(#Glow)" />
-  <ellipse cx="250" cy="130" rx="110" ry="55" stroke="#A259FF" stroke-width="1" fill="none" filter="url(#Glow)" />
-
-  <!-- Radial strands with unique colors -->
-  <line x1="250" y1="25"  x2="250" y2="235" stroke="#FF6B6B" stroke-width="1.2"/>
-  <line x1="60" y1="65"  x2="440" y2="195" stroke="#FFD93D" stroke-width="1.2"/>
-  <line x1="440" y1="65"  x2="60" y2="195" stroke="#6BCB77" stroke-width="1.2"/>
-  <line x1="25" y1="130"  x2="475" y2="130" stroke="#4D96FF" stroke-width="1.2"/>
-
-  <!-- Highlight Spiders: Each with a unique color -->
-  <g>
-    <circle cx="250" cy="60" r="7" fill="#FF6B6B" filter="url(#Glow)" />
-    <circle cx="410" cy="90" r="5" fill="#4D96FF" filter="url(#Glow)" />
-    <circle cx="95" cy="172" r="5" fill="#FFD93D" filter="url(#Glow)" />
-    <circle cx="380" cy="215" r="5" fill="#6BCB77" filter="url(#Glow)" />
-    <circle cx="76" cy="76" r="5" fill="#A259FF" filter="url(#Glow)" />
-    <circle cx="400" cy="150" r="7" fill="#FF6B6B" filter="url(#Glow)" />
-    <circle cx="180" cy="40" r="5" fill="#F15BB5" filter="url(#Glow)" />
-    <circle cx="320" cy="50" r="6" fill="#00BBF9" filter="url(#Glow)" />
-    <circle cx="250" cy="242" r="6" fill="#FFD6E0" filter="url(#Glow)" />
-    <circle cx="60" cy="220" r="6" fill="#6BCB77" filter="url(#Glow)" />
-    <circle cx="370" cy="60" r="5" fill="#FFC75F" filter="url(#Glow)" />
-    <circle cx="180" cy="220" r="5" fill="#845EC2" filter="url(#Glow)" />
-    <circle cx="285" cy="215" r="7" fill="#FF9671" filter="url(#Glow)" />
-    <circle cx="110" cy="65" r="7" fill="#00C2A8" filter="url(#Glow)" />
-    <circle cx="450" cy="135" r="6" fill="#B8AAFF" filter="url(#Glow)" />
-    <circle cx="50" cy="135" r="5" fill="#FF6F91" filter="url(#Glow)" />
-  </g>
-
-  <!-- Many tiny spiders (dots, distinctive accent colors) -->
-  <g>
-    <circle cx="300" cy="140" r="2" fill="#A259FF"/>
-    <circle cx="170" cy="185" r="2" fill="#FF6B6B"/>
-    <circle cx="80"  cy="113" r="2" fill="#FFD93D"/>
-    <circle cx="395" cy="140" r="2" fill="#845EC2"/>
-    <circle cx="335" cy="95" r="2" fill="#6BCB77"/>
-    <circle cx="120" cy="136" r="2" fill="#F15BB5"/>
-    <circle cx="230" cy="100" r="2" fill="#4D96FF"/>
-    <circle cx="279" cy="60"  r="2" fill="#FF9671"/>
-    <circle cx="410" cy="180" r="2" fill="#FFD6E0"/>
-    <circle cx="60"  cy="175" r="2" fill="#00BBF9"/>
-    <!-- ... Imagine many more dots for dense multi-colored web ... -->
-  </g>
-</svg>
-
-</center>
-
----
-
-# Hi, I’m Sam 🕸️  
-### A web developer crafting digital webs with precision and creativity.
-
----
-
-## 🕸️ **Frontend:**  
-React • Next.js • Tailwind CSS
-
-## 🧠 **Backend:**  
-Node.js • Express • MongoDB
-
-## ⚡ **Passionate about:**  
-UI/UX • Animations • Storytelling in design
-
----
-
-## 🕷️ **Networked Badges**
-
-<p align="center">
-  <!-- Animated typing badge (color gradient) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=FF6B6B&background=FFD93D00&vCenter=true&width=430&lines=Spinning+webs+with+style;Connected+Frontend+and+Backend;10%2C000+colorful+spiders+%F0%9F%95%B8%EF%B8%8F" alt="Animated typing badge" />
-  <br>
-  <!-- GitHub Top Languages badge with custom colors -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAi0&layout=compact&bg_color=262626&title_color=FFD93D&text_color=6BCB77&border_radius=10" width="390"/>
+<p align="center" style="font-size: 1.2em; color: #aaa; margin: 10px 0;">
+  <em>With great power comes great code.</em>
 </p>
 
----
+<!-- Status Badges -->
+<p align="center" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=SamAi0&style=for-the-badge&color=E60023&labelColor=0d1117" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/SamAi0?label=Follow&style=for-the-badge&color=00AEEF&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/SamAi0?label=Stars&style=for-the-badge&color=E60023&labelColor=0d1117" alt="Stars"/>
+</p>
 
-## 🕸️ Skills Web (ASCII edition, accent colors)
+<!-- Quick Links -->
+<p align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/samai0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SamAi0">
+    <img src="https://img.shields.io/badge/Twitter-00AEEF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/SamAi0/SamAi0">
+    <img src="https://img.shields.io/badge/Portfolio-E60023?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-```ascii
-          .-''''-.
-      .--./      \.--.
-   .'  F15BB5 🕷️ A259FF '.
-  /  React   |  Node.js \
- ; Next.js   |  Express  ;
- | Tailwind  |  MongoDB  |
- ;  UI/UX, Animations    ;
-  \   Storytelling      /
-   '.     10,000      .'
-      '--.\Spiders/.--'
-          '-..-'
-```
-**Each spider and strand represents a unique skill, connection, or idea!**
+<!-- Visual Divider -->
+<img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="Divider" width="300" style="margin: 30px 0; opacity: 0.8;"/>
 
----
-
-## 🏙️ Featured Webs
-
-- [web-portfolio](https://github.com/SamAi0/web-portfolio)  
-  _A showcase spun like a colorful web (React · Next.js · Tailwind)_
-- [web-backend-api](https://github.com/SamAi0/web-backend-api)  
-  _Backend connections and APIs (Node · Express · MongoDB)_
-- [web-animation-lab](https://github.com/SamAi0/web-animation-lab)  
-  _Creative network and UI animations for web design_
+</div>
 
 ---
 
-## 🕷️ Contact & Collaboration
+<!-- Dashboard Container -->
+<div align="center">
 
-> 📧 [Mail Me](mailto:sam.ai0@email.com)  
-> 🌐 [LinkedIn](https://linkedin.com/in/sam-ai0)  
-> 🗨️ [Open an Issue](https://github.com/SamAi0/SamAi0/issues)
+<!-- 🧑‍💻 ABOUT ME SECTION -->
+<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+
+<h2 align="center" style="margin: 0 0 20px 0; color: #00AEEF;">
+  🧑‍💻 About Me
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.5" opacity="0.8"/>
+    <path d="M12 3v18M3 12h18M5.64 5.64l12.72 12.72M18.36 5.64L5.64 18.36" stroke="#E60023" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<p align="center" style="font-size: 1.1em; line-height: 1.8; color: #e0e0e0; margin: 20px 0;">
+  Hi, I'm <strong style="color: #00AEEF;">Sam</strong>, a developer crafting digital webs with precision and creativity. 
+  I blend cutting-edge technology with intuitive design to build immersive experiences.
+</p>
+
+<!-- Tech Stack Dashboard -->
+<div align="center" style="margin: 30px 0; padding: 20px; background: rgba(13, 17, 23, 0.6); border-radius: 12px;">
+
+<h3 style="color: #E60023; margin: 0 0 15px 0;">🕸️ Tech Arsenal</h3>
+
+<div style="display: inline-block; margin: 10px;">
+
+**Frontend**
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</div>
+
+**Backend**
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
+
+**Tools & Others**
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</div>
+
+</div>
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Electric Spider Web Burst" width="250" style="border-radius: 8px; opacity: 0.9;"/>
+</div>
+
+</div>
 
 ---
 
-<center>
-  <sub>
-    <b>Spiders in every shade, webs of many colors, connections everywhere.</b>  
-    _Weaving digital spaces with vibrant code and creativity._  
-    <span style="font-size:0.8em;">(10,000 colorful spiders included)</span>
-  </sub>
-</center>
+<!-- 🚀 CURRENT FOCUS SECTION -->
+<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.05), rgba(230, 0, 35, 0.05)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+
+<h2 align="center" style="margin: 0 0 20px 0; color: #E60023;">
+  🚀 Currently
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M5.64 5.64l12.72 12.72" stroke="#E60023" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<div style="text-align: left; max-width: 700px; margin: 0 auto; padding: 20px; background: rgba(13, 17, 23, 0.6); border-radius: 12px;">
+
+<ul style="color: #e0e0e0; line-height: 2; font-size: 1.05em;">
+  <li style="margin: 10px 0;">🕸️ Building <strong style="color: #00AEEF;">SpiderSense</strong> utilities and UI components</li>
+  <li style="margin: 10px 0;">⚡ Exploring animation systems and GPU-accelerated effects</li>
+  <li style="margin: 10px 0;">🎨 Crafting design-heavy React/Next.js projects</li>
+  <li style="margin: 10px 0;">🤝 Open to collaboration on innovative web experiences</li>
+</ul>
+
+</div>
+
+</div>
+
+---
+
+<!-- 🕹️ FEATURED PROJECTS SECTION -->
+<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
+
+<h2 align="center" style="margin: 0 0 30px 0; color: #00AEEF;">
+  🕹️ Featured Projects
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.5" opacity="0.8"/>
+    <path d="M18.36 5.64L5.64 18.36" stroke="#E60023" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<!-- Projects Grid -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 30px 0;">
+
+<!-- Project 1: SpiderSense -->
+<div style="flex: 1; min-width: 300px; max-width: 450px; padding: 25px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.1), rgba(13, 17, 23, 0.8)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.3); box-shadow: 0 8px 32px rgba(230, 0, 35, 0.2); transition: transform 0.3s ease;">
+
+<h3 align="center" style="color: #E60023; margin: 0 0 15px 0; font-size: 1.5em;">
+  🧠 SpiderSense
+</h3>
+
+<p align="center" style="color: #b0b0b0; margin: 0 0 20px 0; font-size: 0.95em;">
+  Real-time error detection tool with intelligent monitoring
+</p>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/SamAi0/SamAi0">
+    <img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="SpiderSense Neon Logo" width="100%" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); transition: opacity 0.3s ease;"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Status-Development-00AEEF?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Type-Tool-E60023?style=flat-square" alt="Type"/>
+</div>
+
+</div>
+
+<!-- Project 2: WebSlinger -->
+<div style="flex: 1; min-width: 300px; max-width: 450px; padding: 25px; background: linear-gradient(135deg, rgba(0, 174, 239, 0.1), rgba(13, 17, 23, 0.8)); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.3); box-shadow: 0 8px 32px rgba(0, 174, 239, 0.2); transition: transform 0.3s ease;">
+
+<h3 align="center" style="color: #00AEEF; margin: 0 0 15px 0; font-size: 1.5em;">
+  🕸️ WebSlinger
+</h3>
+
+<p align="center" style="color: #b0b0b0; margin: 0 0 20px 0; font-size: 0.95em;">
+  GitHub history visualized like a spider web network
+</p>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/SamAi0/SamAi0">
+    <img src="Gemini_Generated_Image_t6orgwt6orgwt6or.png" alt="WebSlinger Preview" width="100%" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); transition: opacity 0.3s ease;"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Status-Active-00AEEF?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Type-Visualization-E60023?style=flat-square" alt="Type"/>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<!-- 📸 SPIDERSENSE GALLERY SECTION -->
+<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
+
+<h2 align="center" style="margin: 0 0 30px 0; color: #E60023;">
+  📸 SpiderSense Gallery
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.5" opacity="0.8"/>
+    <path d="M12 3v18M3 12h18" stroke="#E60023" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+  <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Mask Grid" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
+  <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Tech Burst" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
+  <img src="Gemini_Generated_Image_t6orgwt6orgwt6or.png" alt="Neon Web" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
+  <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Hand Painted Web" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
+  <img src="images-removebg-preview.png" alt="Spider Web Art" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
+  <img src="download-removebg-preview.png" alt="Spider Design" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
+</div>
+
+</div>
+
+---
+
+<!-- Visual Divider -->
+<div align="center" style="margin: 40px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="250" style="opacity: 0.7;"/>
+  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="200" style="opacity: 0.7; border-radius: 12px;"/>
+</div>
+
+---
+
+<!-- 🏆 TROPHIES SECTION -->
+<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
+
+<h2 align="center" style="margin: 0 0 30px 0; color: #00AEEF;">
+  🏆 GitHub Trophies
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M5.64 5.64l12.72 12.72" stroke="#E60023" stroke-width="1.1" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<div align="center" style="margin: 30px 0; padding: 20px; background: rgba(13, 17, 23, 0.6); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamAi0&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4" alt="Trophies"/>
+</div>
+
+</div>
+
+---
+
+<!-- 🗺️ CONTRIBUTIONS SECTION -->
+<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
+
+<h2 align="center" style="margin: 0 0 30px 0; color: #E60023;">
+  🗺️ Contribution Activity
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M12 3v18M3 12h18" stroke="#E60023" stroke-width="1.1" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<div align="center" style="margin: 30px 0; padding: 20px; background: rgba(13, 17, 23, 0.6); border-radius: 16px; border: 1px solid rgba(0, 174, 239, 0.2);">
+  <img src="https://raw.githubusercontent.com/SamAi0/SamAi0/output/snake.svg" alt="Contribution Snake animation" style="max-width: 100%;"/>
+</div>
+
+</div>
+
+---
+
+<!-- 📊 GITHUB STATS SECTION -->
+<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
+
+<h2 align="center" style="margin: 0 0 30px 0; color: #00AEEF;">
+  📊 GitHub Stats
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M18.36 5.64L5.64 18.36" stroke="#E60023" stroke-width="1.1" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<!-- Stats Grid -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamAi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00AEEF&icon_color=E60023&text_color=e0e0e0" alt="GitHub Stats"/>
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamAi0&theme=tokyonight&hide_border=true&background=0d1117&ring=00AEEF&fire=E60023&currStreakLabel=00AEEF" alt="GitHub Streak"/>
+</div>
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00AEEF&text_color=e0e0e0&langs_count=8" alt="Top Languages"/>
+</div>
+
+</div>
+
+---
+
+<!-- 💬 CONNECT SECTION -->
+<div style="max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
+
+<h2 align="center" style="margin: 0 0 20px 0; color: #00AEEF;">
+  💬 Connect With Me
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
+    <path d="M12 3v18M3 12h18" stroke="#E60023" stroke-width="1.1" stroke-linecap="round" opacity="0.8"/>
+  </svg>
+</div>
+
+<p align="center" style="font-size: 1.1em; color: #e0e0e0; margin: 20px 0;">
+  Let's build something amazing together! Always open to collaboration and exciting projects.
+</p>
+
+<div align="center" style="margin: 30px 0;">
+  <a href="https://www.linkedin.com/in/samai0" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SamAi0" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Twitter-00AEEF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/SamAi0/SamAi0" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Portfolio-E60023?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+</div>
+
+---
+
+</div>
+
+<!-- Footer -->
+<div align="center" style="margin: 50px 0 20px 0; padding: 20px; border-top: 1px solid rgba(230, 0, 35, 0.2);">
+
+<p style="color: #999; font-size: 0.9em; margin: 10px 0;">
+  🕸️ <strong>SpiderSense</strong> · Designed for dark mode · Futuristic developer aesthetic
+</p>
+
+<p style="color: #666; font-size: 0.85em; margin: 5px 0;">
+  <em>With great power comes great code.</em>
+</p>
+
+<!-- Animated Web SVG Footer -->
+<div align="center" style="margin: 20px 0;">
+  <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.5" opacity="0.6"/>
+    <path d="M12 3v18M3 12h18M5.64 5.64l12.72 12.72M18.36 5.64L5.64 18.36" stroke="#E60023" stroke-width="1.2" stroke-linecap="round" opacity="0.6"/>
+  </svg>
+</div>
+
+</div>
