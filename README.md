@@ -41,7 +41,6 @@
 <h1 align="center" style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/🕷️-SamAi0-00AEEF?style=flat-square&logo=github&logoColor=white" alt="Profile"/>
   <br/>
-  <span style="background: linear-gradient(90deg, #E60023, #00AEEF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5em; font-weight: bold;">SpiderSense Web-Slinger</span>
 </h1>
 
 <p align="center" style="font-size: 1.2em; color: #aaa; margin: 10px 0;">
@@ -53,7 +52,7 @@
   <img src="https://komarev.com/ghpvc/?username=SamAi0&style=for-the-badge&color=E60023&labelColor=0d1117" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/SamAi0?label=Follow&style=for-the-badge&color=00AEEF&labelColor=0d1117" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/SamAi0?label=Stars&style=for-the-badge&color=E60023&labelColor=0d1117" alt="Stars"/>
-  <img src="https://img.shields.io/github/contributions/SamAi0?label=Contributions&style=for-the-badge&color=00AEEF&labelColor=0d1117" alt="Contributions"/>
+ <img src="https://img.shields.io/github/contributions/SamAi0?label=Open%20Source%20Contributions&style=for-the-badge&color=34D399&labelColor=000000" alt="Open Source Contributions"/>
 </p>
 
 <!-- Quick Links -->
@@ -73,10 +72,6 @@
 <div style="position: relative; width: 100%; margin: 30px 0;">
   <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="200" style="position: absolute; top: 0; right: 0; opacity: 0.8; z-index: 1;"/>
 </div>
-
-</div>
-
----
 
 <!-- Dashboard Container -->
 <div align="center">
