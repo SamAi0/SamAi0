@@ -4,30 +4,42 @@
 <!-- Hero Banner Section -->
 <div align="center" style="position: relative; margin-bottom: 20px;">
   <img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46-Photoroom.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px;"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; width: 100%;">
-    <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg" style="max-width: 400px;">
+  
+  <!-- Animated Greeting in Top-Left Corner -->
+  <div style="position: absolute; top: 20px; left: 20px; z-index: 10; background: rgba(13, 17, 23, 0.85); padding: 15px 25px; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.5); box-shadow: 0 4px 20px rgba(0, 174, 239, 0.3); backdrop-filter: blur(10px);">
+    <svg width="320" height="120" xmlns="http://www.w3.org/2000/svg">
       <defs>
-        <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#E60023" stop-opacity="1">
-            <animate attributeName="stop-color" values="#E60023;#00AEEF;#E60023" dur="3s" repeatCount="indefinite"/>
+        <linearGradient id="greetingGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#00AEEF" stop-opacity="1">
+            <animate attributeName="stop-color" values="#00AEEF;#E60023;#00AEEF" dur="2.5s" repeatCount="indefinite"/>
           </stop>
-          <stop offset="50%" stop-color="#00AEEF" stop-opacity="1">
-            <animate attributeName="stop-color" values="#00AEEF;#E60023;#00AEEF" dur="3s" repeatCount="indefinite"/>
+          <stop offset="50%" stop-color="#E60023" stop-opacity="1">
+            <animate attributeName="stop-color" values="#E60023;#00AEEF;#E60023" dur="2.5s" repeatCount="indefinite"/>
           </stop>
-          <stop offset="100%" stop-color="#E60023" stop-opacity="1">
-            <animate attributeName="stop-color" values="#E60023;#00AEEF;#E60023" dur="3s" repeatCount="indefinite"/>
+          <stop offset="100%" stop-color="#00AEEF" stop-opacity="1">
+            <animate attributeName="stop-color" values="#00AEEF;#E60023;#00AEEF" dur="2.5s" repeatCount="indefinite"/>
           </stop>
-          <animateTransform attributeName="gradientTransform" type="translate" values="0 0;100 0;0 0" dur="3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="gradientTransform" type="translate" values="0 0;50 0;0 0" dur="2.5s" repeatCount="indefinite"/>
         </linearGradient>
-        <filter id="glow">
-          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <filter id="textGlow">
+          <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
           <feMerge>
             <feMergeNode in="coloredBlur"/>
             <feMergeNode in="SourceGraphic"/>
           </feMerge>
         </filter>
       </defs>
-      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="64" font-weight="bold" fill="url(#animatedGradient)" filter="url(#glow)" font-family="Arial, sans-serif">SamAi0</text>
+      <text x="10" y="35" font-size="28" font-weight="bold" fill="url(#greetingGradient)" filter="url(#textGlow)" font-family="Arial, sans-serif">
+        <tspan fill="#ffffff">Hello I'm </tspan>
+        <tspan fill="url(#greetingGradient)">SamAi0</tspan>
+      </text>
+      <text x="10" y="65" font-size="18" fill="#00AEEF" font-family="Arial, sans-serif" opacity="0.9">
+        <tspan>🕷️ Web Developer</tspan>
+      </text>
+      <circle cx="15" cy="85" r="4" fill="#E60023" opacity="0.8">
+        <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="25" y="90" font-size="14" fill="#aaa" font-family="Arial, sans-serif">Available for collaboration</text>
     </svg>
   </div>
 </div>
