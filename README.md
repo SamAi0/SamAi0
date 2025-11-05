@@ -279,13 +279,6 @@
 
 ---
 
-<!-- 🗺️ CONTRIBUTIONS SECTION -->
-<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
-
-<h2 align="center" style="margin: 0 0 30px 0; color: #E60023;">
-  🗺️ Contribution Activity
-</h2>
-
 <div align="center" style="margin: 20px 0;">
   <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
     <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.4" opacity="0.8"/>
