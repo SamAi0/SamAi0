@@ -229,6 +229,11 @@
 
 </div>
 
+<div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Spider Web Burst" width="200" style="border-radius: 12px; opacity: 0.85; border: 2px solid rgba(230, 0, 35, 0.3);"/>
+  <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Spider Mask" width="200" style="border-radius: 12px; opacity: 0.85; border: 2px solid rgba(0, 174, 239, 0.3);"/>
+</div>
+
 </div>
 
 ---
@@ -411,6 +416,10 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
+<div align="center" style="margin: 25px 0;">
+  <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Learning Web" width="180" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(0, 174, 239, 0.4);"/>
+</div>
+
 <p align="center" style="font-size: 1em; color: #b0b0b0; margin: 20px 0; font-style: italic;">
   Always expanding my web of knowledge! 🕸️
 </p>
@@ -442,6 +451,12 @@
   <li style="margin: 10px 0;">🌐 Passionate about creating accessible and performant web experiences</li>
 </ul>
 
+</div>
+
+<div align="center" style="margin: 30px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Minimalist Spider" width="220" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
+  <img src="download-removebg-preview.png" alt="Spider Design" width="220" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(0, 174, 239, 0.4); box-shadow: 0 4px 15px rgba(0, 174, 239, 0.2);"/>
+  <img src="images-removebg-preview.png" alt="Spider Web Art" width="220" style="border-radius: 12px; opacity: 0.9; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
 </div>
 
 </div>
