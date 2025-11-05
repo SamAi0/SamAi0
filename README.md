@@ -2,7 +2,35 @@
 <div align="center">
 
 <!-- Hero Banner Section -->
-<img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46-Photoroom.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px; margin-bottom: 20px;"/>
+<div align="center" style="position: relative; margin-bottom: 20px;">
+  <img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46-Photoroom.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px;"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10; width: 100%;">
+    <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg" style="max-width: 400px;">
+      <defs>
+        <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#E60023" stop-opacity="1">
+            <animate attributeName="stop-color" values="#E60023;#00AEEF;#E60023" dur="3s" repeatCount="indefinite"/>
+          </stop>
+          <stop offset="50%" stop-color="#00AEEF" stop-opacity="1">
+            <animate attributeName="stop-color" values="#00AEEF;#E60023;#00AEEF" dur="3s" repeatCount="indefinite"/>
+          </stop>
+          <stop offset="100%" stop-color="#E60023" stop-opacity="1">
+            <animate attributeName="stop-color" values="#E60023;#00AEEF;#E60023" dur="3s" repeatCount="indefinite"/>
+          </stop>
+          <animateTransform attributeName="gradientTransform" type="translate" values="0 0;100 0;0 0" dur="3s" repeatCount="indefinite"/>
+        </linearGradient>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="64" font-weight="bold" fill="url(#animatedGradient)" filter="url(#glow)" font-family="Arial, sans-serif">SamAi0</text>
+    </svg>
+  </div>
+</div>
 
 <!-- Identity Section -->
 <h1 align="center" style="margin: 10px 0;">
@@ -169,7 +197,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://github.com/SamAi0/SamAi0">
-    <img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="SpiderSense Neon Logo" width="100%" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); transition: opacity 0.3s ease;"/>
+    <img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="SpiderSense Neon Logo" width="60%" style="max-width: 300px; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); transition: opacity 0.3s ease;"/>
   </a>
 </div>
 
@@ -204,33 +232,6 @@
 
 </div>
 
-</div>
-
-</div>
-
----
-
-<!-- 📸 SPIDERSENSE GALLERY SECTION -->
-<div style="max-width: 1100px; margin: 30px auto; padding: 20px;">
-
-<h2 align="center" style="margin: 0 0 30px 0; color: #E60023;">
-  📸 SpiderSense Gallery
-</h2>
-
-<div align="center" style="margin: 20px 0;">
-  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="12" cy="12" r="9" stroke="#00AEEF" stroke-width="1.5" opacity="0.8"/>
-    <path d="M12 3v18M3 12h18" stroke="#E60023" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
-  </svg>
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Mask Grid" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
-  <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Tech Burst" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
-  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Neon Web" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
-  <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Hand Painted Web" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
-  <img src="images-removebg-preview.png" alt="Spider Web Art" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
-  <img src="download-removebg-preview.png" alt="Spider Design" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
 </div>
 
 </div>
