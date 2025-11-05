@@ -343,7 +343,7 @@
 </div>
 
   <!-- Bottom Right Corner Image -->
-  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Web Design" width="120" style="position: absolute; bottom: -15px; right: -15px; opacity: 0.8; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.4);"/>
+  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Web Design" width="120" style="position: absolute; bottom: -15px; right: -15px; opacity: 0.8; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 259, 359, 0.4);"/>
 
 <p align="center" style="font-size: 1em; color: #b0b0b0; margin: 20px 0; font-style: italic;">
   Always expanding my web of knowledge! 🕸️
@@ -355,10 +355,6 @@
 
 <!-- 💡 FUN FACTS SECTION -->
 <div style="position: relative; max-width: 900px; margin: 30px auto; padding: 20px; background: linear-gradient(135deg, rgba(230, 0, 35, 0.05), rgba(0, 174, 239, 0.05)); border-radius: 16px; border: 1px solid rgba(230, 0, 35, 0.2);">
-  <!-- Top Left Corner -->
-  <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Minimalist Spider" width="130" style="position: absolute; top: -20px; left: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
-  <!-- Top Right Corner -->
-  <img src="download-removebg-preview.png" alt="Spider Design" width="130" style="position: absolute; top: -20px; right: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.4); box-shadow: 0 4px 15px rgba(0, 174, 239, 0.2);"/>
   <!-- Bottom Right Corner -->
   <img src="images-removebg-preview.png" alt="Spider Web Art" width="130" style="position: absolute; bottom: -20px; right: -20px; opacity: 0.9; z-index: 2; border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.4); box-shadow: 0 4px 15px rgba(230, 0, 35, 0.2);"/>
 
@@ -409,12 +405,6 @@
 <div align="center" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/samai0" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SamAi0" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Twitter-00AEEF?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/SamAi0/SamAi0" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-E60023?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:sam@example.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
