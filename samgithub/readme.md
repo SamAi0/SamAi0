@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Hero Banner Section -->
-<img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px; margin-bottom: 20px;"/>
+<img src="spider-man-iron-spider-suit-sketch-wallpaper-1366x768_46-Photoroom.png" alt="SpiderSense Hero Banner" width="100%" style="max-width: 1200px; border-radius: 12px; margin-bottom: 20px;"/>
 
 <!-- Identity Section -->
 <h1 align="center" style="margin: 10px 0;">
@@ -37,7 +37,7 @@
 </p>
 
 <!-- Visual Divider -->
-<img src="Gemini_Generated_Image_c9myxc9myxc9myxc-removebg-preview.png" alt="Divider" width="300" style="margin: 30px 0; opacity: 0.8;"/>
+<img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="300" style="margin: 30px 0; opacity: 0.8;"/>
 
 </div>
 
@@ -103,7 +103,7 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Electric Spider Web Burst" width="250" style="border-radius: 8px; opacity: 0.9;"/>
+  <img src="images-removebg-preview (1).png" alt="Electric Spider Web Burst" width="250" style="border-radius: 8px; opacity: 0.9;"/>
 </div>
 
 </div>
@@ -227,7 +227,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
   <img src="Gemini_Generated_Image_lhy0aelhy0aelhy0-removebg-preview.png" alt="Mask Grid" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
   <img src="_generate_two_images_of_minimalist_webpiders_logos_lzjcxnkq9ysb3q7vzz0u_3-removebg-preview.png" alt="Tech Burst" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
-  <img src="Gemini_Generated_Image_t6orgwt6orgwt6or.png" alt="Neon Web" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
+  <img src="Gemini_Generated_Image_hq8i45hq8i45hq8i-removebg-preview.png" alt="Neon Web" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
   <img src="pngtree-hand-painted-spider-web-png-image_2994054-removebg-preview.png" alt="Hand Painted Web" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
   <img src="images-removebg-preview.png" alt="Spider Web Art" width="280" style="border-radius: 12px; border: 2px solid rgba(230, 0, 35, 0.3); box-shadow: 0 4px 16px rgba(230, 0, 35, 0.2);"/>
   <img src="download-removebg-preview.png" alt="Spider Design" width="280" style="border-radius: 12px; border: 2px solid rgba(0, 174, 239, 0.3); box-shadow: 0 4px 16px rgba(0, 174, 239, 0.2);"/>
@@ -238,9 +238,8 @@
 ---
 
 <!-- Visual Divider -->
-<div align="center" style="margin: 40px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="spider-web-drawing-clip-art-spider-removebg-preview.png" alt="Divider" width="250" style="opacity: 0.7;"/>
-  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="200" style="opacity: 0.7; border-radius: 12px;"/>
+<div align="center" style="margin: 40px 0;">
+  <img src="spider-man-far-from-home-1300X2334-wallpaper-2jnu36ael8ud3xmb-removebg-preview.png" alt="Spider-Man" width="250" style="opacity: 0.7; border-radius: 12px;"/>
 </div>
 
 ---
@@ -376,10 +375,6 @@
   <li style="margin: 10px 0;">🌐 Passionate about creating accessible and performant web experiences</li>
 </ul>
 
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="spider-web-with-black-center-that-says-spider-web_1240970-19969.avif" alt="Spider Web" width="200" style="border-radius: 12px; opacity: 0.8; border: 2px solid rgba(230, 0, 35, 0.3);"/>
 </div>
 
 </div>
